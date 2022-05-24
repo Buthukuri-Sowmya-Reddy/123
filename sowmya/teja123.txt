@@ -1,1 +1,2 @@
-swathi 123456
+ swathi 123456 
+text file 
